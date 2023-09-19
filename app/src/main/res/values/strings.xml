@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">My Application</string>
+
+    <string name="description_main">Estamos en la actividad principal</string>
+    <string name="next">Siguiente</string>
+    <string name="description_secondary">Estamos en la actividad secundaria</string>
+    <string name="back">Volver</string>
+
+</resources>
